@@ -1,0 +1,40 @@
+body,p,span{
+    font-family: 'Roboto', sans-serif;
+}
+h1,h2,h3,h4,h5,h6,a{
+    font-family: 'Rubik', sans-serif;
+}
+.btn{
+    border-radius: 30px;
+    border: 2px solid white;
+    padding: 10px;
+    margin: 10px;
+    width: 60%;
+    margin-left: 0;
+
+}
+.btn1{
+    border-radius: 30px;
+    border: 2px solid white;
+    padding: 10px;
+    
+    margin-top: 20px;
+    width: 30%;
+
+}
+.one{
+    width: 15%;
+    float: left;
+    text-decoration: overline;
+    color: blue;
+    height: 3%;
+    
+}
+.card-alo{
+filter: opacity(.4);
+transition: .5s;
+}
+.card-alo:hover{
+filter: opacity(1);
+color: rgb(138, 192, 188);
+}
